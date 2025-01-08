@@ -1,0 +1,1 @@
+Quantum Computing uses ideas from quantum mechanics to do calculations much more effectively than traditional methods. It does this with 'qubits' which can be a mix of 0 and 1, unlike normal computing.
